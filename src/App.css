@@ -1,0 +1,15 @@
+.button {
+  background-color: whitesmoke;
+}
+
+.container-fluid {
+  background-color: whitesmoke;
+}
+
+.hover:active {
+  color: grey;
+}
+
+input:focus {
+  outline: none;
+}
